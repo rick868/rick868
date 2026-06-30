@@ -55,12 +55,36 @@ My work combines project leadership, software engineering, immersive technologie
 ![Unity](https://img.shields.io/badge/Unity-000?logo=unity)
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick868&show_icons=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rick868&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick868&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rick868&layout=compact)
+---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rick868&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rick868&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rick868&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 ---
 
 ## 🌟 Featured Projects
